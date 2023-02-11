@@ -112,3 +112,39 @@ header,
   margin-right: 55px;
   margin-top: 30px;
 }
+
+#contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+}
+
+.contact-blue {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 50px;
+  background-color: #4f68a8;
+  width: 950px;
+  border-radius: 4px;
+}
+
+.contact-info-title {
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+}
+
+.contact-info-desc {
+  color: rgb(189, 185, 181);
+}
+
+#contact-button {
+  color: white;
+  font-weight: 800;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 8px 30px;
+}
