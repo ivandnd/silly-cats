@@ -90,3 +90,25 @@ header,
 .silly-pic {
   height: 300px;
 }
+
+#quotes {
+  background-color: #e5e7eb;
+  padding: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#quotes-here {
+  font-size: 36px;
+  font-style: italic;
+}
+
+#author {
+  display: flex;
+  justify-content: flex-end;
+  font-weight: 800;
+  font-size: 26px;
+  margin-right: 55px;
+  margin-top: 30px;
+}
